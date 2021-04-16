@@ -1,0 +1,21 @@
+[INFO ] 2021-04-14 13:53:53.064 [main] App - Setting var of LomborgTest from Log4jProject
+[INFO ] 2021-04-14 13:53:53.065 [main] App - Calling test() of LomborgTest from Log4jProject
+[INFO ] 2021-04-14 13:53:53.065 [main] App - In test() of LomborgTest
+[DEBUG] 2021-04-14 13:53:53.065 [main] App - Printing from LomborkTest test()Prop1 Prop2
+[INFO ] 2021-04-14 13:53:53.065 [main] App - Ending Log4jProject
+[INFO ] 2021-04-14 15:04:59.692 [main] App - Setting var of LomborgTest from Log4jProject
+[INFO ] 2021-04-14 15:04:59.693 [main] App - Calling test() of LomborgTest from Log4jProject
+[INFO ] 2021-04-14 15:05:46.565 [main] App - Setting var of LomborgTest from Log4jProject
+[INFO ] 2021-04-14 15:05:46.566 [main] App - Calling test() of LomborgTest from Log4jProject
+[INFO ] 2021-04-14 15:14:14.260 [main] App - Setting var of LomborgTest from Log4jProject
+[INFO ] 2021-04-14 15:14:14.261 [main] App - Calling test() of LomborgTest from Log4jProject
+[INFO ] 2021-04-14 15:14:14.261 [main] App - In test() of LomborgTest
+[DEBUG] 2021-04-14 15:14:14.261 [main] App - Printing from LomborkTest test()Prop1 Prop2
+[DEBUG] 2021-04-14 15:14:14.261 [main] App - Printing l1 from main LomborkTest(prop1=Prop1, prop2=Prop2)
+[INFO ] 2021-04-14 15:14:14.261 [main] App - Ending Log4jProject
+[INFO ] 2021-04-14 15:20:01.801 [main] App - Setting var of LomborgTest from Log4jProject
+[INFO ] 2021-04-14 15:20:01.801 [main] App - Calling test() of LomborgTest from Log4jProject
+[INFO ] 2021-04-14 15:20:01.801 [main] App - In test() of LomborgTest
+[DEBUG] 2021-04-14 15:20:01.801 [main] App - Printing from LomborkTest test()Prop1 Prop2
+[DEBUG] 2021-04-14 15:20:01.802 [main] App - Printing l1 from main LomborkTest(Prop1, Prop2)
+[INFO ] 2021-04-14 15:20:01.802 [main] App - Ending Log4jProject
